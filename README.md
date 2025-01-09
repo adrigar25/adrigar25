@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Adrián García Torrente
 
-<!--
-**adrigar25/adrigar25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador especializado en el desarrollo de aplicaciones web. Actualmente he terminado un grado superior en desarrollo de aplicaciones web, y me apasiona crear proyectos que combinen funcionalidad y diseño. 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y Herramientas
+- Lenguajes: **JavaScript**, **PHP**, **HTML**, **CSS**
+- Frameworks: **React**, **Next.js**
+- Backend: **Node.js**, **Express**
+- Bases de Datos: **MySQL**
+- Otros: **Git**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Proyectos Destacados
+- Una tienda online de productos deportivos con panel de administración completo para gestión de usuarios, productos y análisis de clientes.
+
+## 🎯 Objetivos
+- Perfeccionar mis habilidades como desarrollador web.
+- Contribuir a proyectos de código abierto.
+- Seguir aprendiendo y creciendo como profesional.
+
+## 📫 ¡Conecta conmigo!
+- **Correo**: adrigar250503@gmail.com
+- **LinkedIn**: [Adrián García Torrente] https://www.linkedin.com/in/adrián-garcía-torrente-311040206/
+
+
+¡Gracias por pasarte por mi perfil! 😊
