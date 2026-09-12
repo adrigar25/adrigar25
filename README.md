@@ -20,7 +20,7 @@ Soy desarrollador especializado en el desarrollo de aplicaciones web. Actualment
 ## 📫 ¡Conecta conmigo!
 - **Correo**: adriantorrente03@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/adrián-garcía-torrente-311040206/
-- **Portfolio**: http://adrigar25.github.io/adrian-portfolio/
+- **Portfolio**: http://adrigar25.github.io/
 
 
 ¡Gracias por pasarte por mi perfil! 😊
